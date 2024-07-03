@@ -1,0 +1,10 @@
+{
+  "empty_section_label": "Empty",
+  "@empty_section_label": {
+    "description": "empty_section_label"
+  },
+  "action_retry": "Retry",
+  "@action_retry": {
+    "description": "action_retry"
+  }
+}
